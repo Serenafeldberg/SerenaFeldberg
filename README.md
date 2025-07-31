@@ -26,7 +26,7 @@
 
 ### 🌐 Encontrame en la web
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/serenafeldberg/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/serenafeldberg/](https://www.linkedin.com/in/serena-feldberg-8901201b6/))  
 📩 serenafeldberg@gmail.com
 
 ---
